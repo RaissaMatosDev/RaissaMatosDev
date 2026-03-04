@@ -47,7 +47,7 @@ https://github.com/RaissaMatosDev/catholicFile
 - MySQL  
 
 ### 🧪 Testes
-- JUnit (estudando)  
+- JUnit  
 - Mockito (estudando)  
 
 ### 🔧 DevOps & Outros
