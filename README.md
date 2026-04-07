@@ -1,80 +1,62 @@
 # 👩🏻‍💻 Raíssa Matos
 
-`Java Backend Developer | Em evolução constante`
+`Desenvolvedora Backend Java | Spring Boot | APIs REST`
 
 ---
 
-## 🧠 Sobre mim
+## Sobre mim
 
-Sou Desenvolvedora Java Júnior com foco em Backend, construindo uma base sólida em Java e no ecossistema Spring.
+Desenvolvedora Backend com foco no ecossistema Java e Spring Boot, construindo APIs RESTful escaláveis com boas práticas de arquitetura, segurança e qualidade de código.
 
-Tenho interesse em desenvolvimento de APIs REST, arquitetura limpa, segurança de aplicações e sistemas corporativos escaláveis.  
-Busco evoluir constantemente minhas habilidades técnicas e escrever código limpo, testável e bem estruturado.
+Atualmente em transição para desenvolvimento full-time, com projeto open-source em produção e experiência prévia em suporte N2 que reforçou minha capacidade de diagnóstico em sistemas reais.
 
 ---
 
 ## 🚀 Projeto em Destaque
 
-### 📂 Catholic File (Projeto Voluntário)
+### CatholicFile — Gerador de Folhetos Litúrgicos
+> Sistema fullstack open-source para automação de documentos eclesiásticos em PDF, servindo múltiplas paróquias em produção.
 
-Sistema para gerenciamento e geração de documentos religiosos em PDF.
+**Impacto:** redução do tempo de produção de folhetos de 2h para 5min.
 
-**Stack utilizada:**
-- Java  
-- Spring Boot  
-- JPA / Hibernate  
-- PostgreSQL  
-- API REST  
-- Jakarta Validation  
+**Stack:**
+`Java 17` `Spring Boot` `Spring Security` `JWT` `PostgreSQL` `JPA/Hibernate` `OpenPDF` `Thymeleaf` `Docker` `Angular`
 
-🔗 Repositório:  
-https://github.com/RaissaMatosDev/catholicFile
+**Destaques técnicos:**
+- Autenticação JWT com filtros customizados e autorização baseada em roles
+- Engine de PDF dinâmico com templates responsivos via OpenPDF + Thymeleaf
+- Deploy containerizado no Render com CI/CD
+- API REST documentada via OpenAPI/Swagger com Bean Validation
 
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-### 🔙 Backend
-- Java  
-- Spring Boot  
-- Spring Security  
-- JWT  
-- JPA / Hibernate  
-- Maven  
-
-### 🗄️ Banco de Dados
-- PostgreSQL  
-- MySQL  
-
-### 🧪 Testes
-- JUnit  
-- Mockito (estudando)  
-
-### 🔧 DevOps & Outros
-- Git  
-- GitHub  
-- Docker (em aprendizado)  
-- Swagger / OpenAPI  
+🔗 [Repositório](https://github.com/RaissaMatosDev/catholicFile) · [Aplicação Online](https://catholicfile.onrender.com/swagger-ui/index.html)
 
 ---
 
-## 📚 Atualmente estudando
+## 🛠️ Tecnologias
 
-- Estruturas de Dados e Collections na prática  
-- Testes unitários  
-- Clean Code & SOLID  
-- Arquitetura em camadas  
-- Boas práticas para APIs REST  
+**Backend**
+`Java 17` `Spring Boot` `Spring Security` `JWT` `JPA/Hibernate` `Maven`
+
+**Banco de Dados**
+`PostgreSQL` `MySQL`
+
+**Qualidade & Testes**
+`JUnit 5` `Clean Code` `SOLID` `Design Patterns`
+
+**DevOps & Ferramentas**
+`Docker` `Git` `GitHub` `OpenAPI/Swagger`
 
 ---
 
-## 🎯 Objetivo Profissional
+## 📂 Outros Projetos
 
-Construir carreira como Desenvolvedora Backend, contribuindo para sistemas robustos, seguros e escaláveis, com foco em qualidade de código e evolução contínua.
+### [academia-alunos-api](https://github.com/RaissaMatosDev/academia-alunos-api)
+API REST de gestão de alunos com foco em performance.
+`Java` `Spring Boot` `MySQL/PostgreSQL` `Swagger` `Pageable` `Bean Validation`
 
 ---
 
-## 📫 Conecte-se comigo
+## 📫 Contato
 
-- LinkedIn: https://www.linkedin.com/in/raissamatosdev  
-- Email: raissamatosdev@outlook.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raissamatosdev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raissamatosdev@outlook.com)
